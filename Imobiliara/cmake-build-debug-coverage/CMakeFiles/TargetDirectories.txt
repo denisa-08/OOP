@@ -1,0 +1,3 @@
+/Users/denisa/CLionProjects/Imobiliara/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+/Users/denisa/CLionProjects/Imobiliara/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/denisa/CLionProjects/Imobiliara/cmake-build-debug-coverage/CMakeFiles/Imobiliara.dir
